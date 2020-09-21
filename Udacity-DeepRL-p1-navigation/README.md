@@ -23,5 +23,13 @@ Python notebook:
 
 The code is written in python in the Navigation.ipynb notebook. 
 
+Github location is :
+https://github.com/rahulmbagal/Udacity_Reinforcement_learning/tree/master/Udacity-DeepRL-p1-navigation
+
+Two Techniques implemented:
+
+with Double DQN
+and with Dueling Double DQN
+
 
 
