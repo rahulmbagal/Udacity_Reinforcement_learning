@@ -8,10 +8,10 @@ We will train an agent that navigate and collect babanas in the enviroment.
 -1 reward = if agent collect blue Banana
 
 
-State Space:
+# State Space:
 There are 37 dimensions in which agent can move with velocity along with ray-based perception of objects around agent's forward direction.
 
-Actions:
+# Actions:
 Four discrete actions are available,
 
 0 - move forward.
