@@ -77,6 +77,5 @@ You need only select the environment that matches your operating system:
 
 (For AWS) If you'd like to train the agent on AWS (and have not enabled a virtual screen), then please use this link to obtain the environment.
 
-Place the file in the DRLND GitHub repository, in the Udacity_Reinforcement_learning/Udacity-DeepRL-p1-navigation, and unzip (or decompress) the file.
 
 
