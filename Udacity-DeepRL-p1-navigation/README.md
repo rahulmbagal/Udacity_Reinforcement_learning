@@ -37,10 +37,15 @@ and with Dueling Double DQN
 Below are the scores of each iterations average score of Episodes:
 
 Episode 100	Average Score: 1.87
+
 Episode 200	Average Score: 7.70
+
 Episode 300	Average Score: 11.69
+
 Episode 400	Average Score: 12.19
+
 Episode 471	Average Score: 13.00
+
 Environment solved in 371 episodes!	Average Score: 13.00
 
 ![image 1](https://user-images.githubusercontent.com/6122185/94677177-1e85be00-033a-11eb-841c-1b27aa123a62.png)
@@ -50,9 +55,13 @@ Environment solved in 371 episodes!	Average Score: 13.00
 Below are the scores of each iterations average score of Episodes:
 
 Episode 100	Average Score: 3.23
+
 Episode 200	Average Score: 9.72
+
 Episode 300	Average Score: 12.97
+
 Episode 305	Average Score: 13.01
+
 Environment solved in 205 episodes!	Average Score: 13.01
 
 ![image 2](https://user-images.githubusercontent.com/6122185/94677408-77555680-033a-11eb-8e78-ac4e269c1915.png)
