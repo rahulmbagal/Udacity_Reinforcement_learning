@@ -71,7 +71,7 @@ We stop the iterations once the curve is almost flat and there is no further upd
 
 # Getting Started:
 
-Note: below contain is copies from the references [click here](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation#getting-started)
+Note: below contains is copied from the references [click here](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation#getting-started)
 
 Download the environment from one of the links below. You need only select the environment that matches your operating system:
 
