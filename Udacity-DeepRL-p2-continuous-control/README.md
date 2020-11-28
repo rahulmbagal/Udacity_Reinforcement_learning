@@ -12,11 +12,26 @@ For this project, you will work with the [Reacher](https://github.com/Unity-Tech
 # Below are the details of the Enviroment as per the official website mentioned:
 
 Set-up: Double-jointed arm which can move to target locations.
+
 Goal: The agents must move its hand to the goal location, and keep it there.
+
 Agents: The environment contains 10 agent with same Behavior Parameters.
+
 Agent Reward Function (independent):
-+0.1 Each step agent's hand is in goal location.
+
+  - +0.1 Each step agent's hand is in goal location.
+
 Behavior Parameters:
-Vector Observation space: 26 variables corresponding to position, rotation, velocity, and angular velocities of the two arm rigid bodies.
-Vector Action space: (Continuous) Size of 4, corresponding to torque applicable to two joints.
-Visual Observations: None.
+
+  - Vector Observation space: 26 variables corresponding to position, rotation, velocity, and angular velocities of the two arm rigid bodies.
+
+  - Vector Action space: (Continuous) Size of 4, corresponding to torque applicable to two joints.
+
+  - Visual Observations: None.
+
+In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
+
+The observation space consists of 33 variables corresponding to position, rotation, velocity, and angular velocities of the arm. Each action is a vector with four numbers, corresponding to torque applicable to two joints. Every entry in the action vector should be a number between -1 and 1.
+
+
+For this project, using the single agent, The task is episodic, and in order to solve the environment, your agent must get an average score of +30 over 100 consecutive episodes.
