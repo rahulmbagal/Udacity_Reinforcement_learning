@@ -36,3 +36,7 @@ The observation space consists of 33 variables corresponding to position, rotati
 # Goal of this project 
 
 For this project, using the single agent, The task is episodic, and in order to solve the environment, your agent must get an average score of +30 over 100 consecutive episodes.
+
+# Below is the training of the model
+
+![results](https://user-images.githubusercontent.com/6122185/100519084-aca3e680-31bb-11eb-822d-8ed3bf71c390.png)
