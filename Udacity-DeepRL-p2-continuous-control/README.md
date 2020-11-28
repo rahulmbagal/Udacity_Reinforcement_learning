@@ -42,7 +42,7 @@ For this project, using the single agent, The task is episodic, and in order to 
 ![results](https://user-images.githubusercontent.com/6122185/100519084-aca3e680-31bb-11eb-822d-8ed3bf71c390.png)
 
 
-The environment is considered solved, when the average (over 150 episodes) of those average scores is at least +30. In the case of the plot above, the environment was solved at episode 150, since the average of the average scores from episodes 150 to 200 (inclusive) was greater than +30.
+The environment is considered solved, when the average (over 150 episodes) of those average scores is at least +30. In the case of the plot above, the environment was solved at episode 125, since the average of the average scores from episodes 125 to 200 (inclusive) was greater than +30.
 
 WE can still improve by tuning with the parameters.
 
