@@ -19,7 +19,7 @@ Agents: The environment contains 10 agent with same Behavior Parameters.
 
 Agent Reward Function (independent):
 
-  -- +0.1 Each step agent's hand is in goal location.
+  - +0.1 Each step agent's hand is in goal location.
 
 Behavior Parameters:
 
