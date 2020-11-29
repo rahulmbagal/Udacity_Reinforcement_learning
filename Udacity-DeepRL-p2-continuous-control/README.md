@@ -1,7 +1,7 @@
 
-## Udacity Deep Reinforcement Learning Nanodegree - Project 2: Continuous Control
+# Udacity Deep Reinforcement Learning Nanodegree - Project 2: Continuous Control
 
-# The Environment
+## The Environment
 
 ![image](https://user-images.githubusercontent.com/6122185/100517119-83c92480-31ae-11eb-8217-5b56458a253a.png)
 
