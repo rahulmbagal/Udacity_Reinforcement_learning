@@ -1,7 +1,7 @@
 
-# Udacity Deep Reinforcement Learning Nanodegree - Project 2: Continuous Control
+## Udacity Deep Reinforcement Learning Nanodegree - Project 2: Continuous Control
 
-## The Environment
+### The Environment
 
 ![image](https://user-images.githubusercontent.com/6122185/100517119-83c92480-31ae-11eb-8217-5b56458a253a.png)
 
@@ -9,7 +9,7 @@
 For this project, you will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
 
 
-# Below are the details of the Enviroment as per the official website mentioned:
+### Below are the details of the Enviroment as per the official website mentioned:
 
 Set-up: Double-jointed arm which can move to target locations.
 
@@ -37,13 +37,13 @@ The observation space consists of 33 variables corresponding to position, rotati
 
 For this project, using the single agent, The task is episodic, and in order to solve the environment, your agent must get an average score of +30 over 100 consecutive episodes.
 
-# Below is the training of the model
+### Below is the training of the model
 
 ![results](https://user-images.githubusercontent.com/6122185/100519084-aca3e680-31bb-11eb-822d-8ed3bf71c390.png)
 
 
 The environment is considered solved, when the average (over 150 episodes) of those average scores is at least +30. In the case of the plot above, the environment was solved at episode 125, since the average of the average scores from episodes 125 to 200 (inclusive) was greater than +30.
 
-WE can still improve by tuning with the parameters.
+
 
 
