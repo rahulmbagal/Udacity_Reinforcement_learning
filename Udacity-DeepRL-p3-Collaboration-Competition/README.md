@@ -21,6 +21,14 @@ In order to solve the environment, the agents must get an average score of +0.5 
 
 The environment is considered solved, when the average (over 100 episodes) of those **scores** is at least +0.5.
 
+### Runing the Code:
+
+	- Tennis-0-v12.ipynb is the python notebook
+
+	- All the relavent classes and methods are in the each cells
+
+	- maddpg() is the main function and having default parameters assigned 
+
 ### Getting Started
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
